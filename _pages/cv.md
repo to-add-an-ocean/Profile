@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
-* MSc in Astrophysics, University of Glasgow, 2025-2026
-* BSc in Astronomy, Nanjing University, 2021-2015
+## Education
 
+* PhD in Astronomy, University of Glasgow, 2026-present
+* MSc in Astrophysics, University of Glasgow, 2025-2026
+* Visiting Researcher, Australian National University, 2024-2025
+* BSc in Astronomy, Nanjing University, 2021-2015
